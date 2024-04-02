@@ -1,0 +1,3 @@
+git diff (show diffrance/changes in file those are in unstage)
+git diff --staged (show diffrance/ changes in those files whose in staged)
+git stash 
