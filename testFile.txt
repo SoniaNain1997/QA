@@ -3,3 +3,4 @@ cd . to go back
 cd .. for go to two-step back in folders
 ls for information
 pwd to know the current path
+git clone (link of the repositiery)
