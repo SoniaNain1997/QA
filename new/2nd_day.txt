@@ -1,3 +1,19 @@
 git diff (show diffrance/changes in file those are in unstage)
 git diff --staged (show diffrance/ changes in those files whose in staged)
-git stash 
+git stash (undo the maden changes)
+git stash pop (when we undo any file with git stash, with this comand we can get back those changeses.)
+git add (file name)
+git add . (allfile will add and these file will be staged to local repositry)
+git commit -m "commant" (these file after commit reach to the local repositry)
+git push (with this command file reachto the remote repositry)
+git fetch (come mata data or after fetching data if these will be any change or commit done in same file or branch they will not come with fetch command)
+git pull (fetch all commit and changes and code)
+git reset HEAD {file name} (file whose in stage come into unstage)
+git reset HEAD . (all file come back to unstage)
+git checkout {file name} new changes in file will be discarded permanantlly
+git checkout {branch name} (jume to the branch )
+git checkout -b branch name (create branch in local)
+git status
+git clone link (repositry link)
+mkdir (this command for make a folder in repositry)
+
